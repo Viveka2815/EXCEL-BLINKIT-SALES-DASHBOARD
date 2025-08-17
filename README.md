@@ -1,5 +1,7 @@
 # EXCEL-BLINKIT-SALES-DASHBOARD
 
+https://1drv.ms/x/c/a16c955eb1ea1b01/ERWhRpCdAmlPjFbNqN_zpVwBMD0a7L-f8ooFyx05LgI0Ow?e=jc4imc
+
 Extracted and transformed sales data using SQL to identify trends, top-selling products, and customer purchase behavior.  Designed an interactive Power BI dashboard for visualizing key sales metrics, enabling data-driven insights for business growth and performance tracking.
 
 # Blinkit Sales Analysis Dashboard (Excel)
